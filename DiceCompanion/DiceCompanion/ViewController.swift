@@ -1,24 +1,17 @@
 //
 //  ViewController.swift
-//  DIce Companion
+//  DiceCompanion
 //
 //  Created by Bradley GIlmore on 10/30/20.
 //
 
-import Cocoa
+import UIKit
 
-class ViewController: NSViewController {
+class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
         // Do any additional setup after loading the view.
-    }
-
-    override var representedObject: Any? {
-        didSet {
-        // Update the view, if already loaded.
-        }
     }
 
 
