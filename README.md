@@ -11,7 +11,7 @@ An iOS app that will allow you to interact with a physical dice timer. You can s
 
 # Features / TODO
 
-- [ ] Create Detailed README.md
+- [X] Create Detailed README.md
 - [ ] Add License
 - [ ] Create basic Storyboard layout
 - [ ] Create timer models
